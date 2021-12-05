@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning - NodeJs 😊
 - 👯 I’m looking to collaborate with - Other developpers in community 😉 and on amazings stuffs
 - 💬 Ask me about - Angular  👨🏽‍💻
-- 🥅 2021 Goal - Mastered Angular to 60%  🧔🏽
+- 🥅 2021 Goal - Mastered Angular over medium  🧔🏽
 - ⚡ Fun fact - excess mucis love 🎧, gaming 🎮,  
 
 <!-- ❔❔❔❔ means username in below README.md -->
