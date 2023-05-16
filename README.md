@@ -3,12 +3,10 @@
 
 ### In short I'm Tech and Energy Enthusiast
 
-- 🔭 I’m currently working on - Freelancing 🤠
-- 🌱 I’m currently learning - NodeJs 😊
-- 👯 I’m looking to collaborate with - Other developpers in community 😉 and on amazings stuffs
-- 💬 Ask me about - Angular  👨🏽‍💻
-- 🥅 2021 Goal - Mastered Angular over medium  🧔🏽
-- ⚡ Fun fact - excess mucis love 🎧, gaming 🎮,  
+- 🔭 I’m currently working on - Remote 🤠 (Available)
+- 👯 I’m looking to collaborate with - Other developpers in community 😉 and collaborate by bulding amazing tools and project.
+- 💬 Ask me about - Angular  👨🏽‍💻, Music.
+- ⚡ Fun fact - excess mucis love 🎧, gaming 🎮 (call of duty) ❤,  
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
